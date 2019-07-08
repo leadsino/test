@@ -1,3 +1,0 @@
-zhuliang
-helloworld
-
